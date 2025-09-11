@@ -1,0 +1,14 @@
+
+/* Color Theme Swatches in Hex */
+.principal { color: #011F26; }
+.background { color: #5C7373; }
+.dark-teal-deep-3-hex { color: #027368; }
+.destaque { color: #032612; }
+.dark-teal-deep-5-hex { color: #034001; }
+
+
+
+html{ 
+    background: #5C7373;
+    color: #011F26;    
+}
