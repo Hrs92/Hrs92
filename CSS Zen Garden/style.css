@@ -1,14 +1,24 @@
 
-/* Color Theme Swatches in Hex */
-.principal { color: #011F26; }
-.background { color: #5C7373; }
-.dark-teal-deep-3-hex { color: #027368; }
-.destaque { color: #032612; }
-.dark-teal-deep-5-hex { color: #034001; }
-
-
-
-html{ 
+html { 
     background: #5C7373;
-    color: #011F26;    
+    color: #011F26;  
+    
+    font-size: 18px;
+    font-family: Helvetica, sans-serif;
 }
+
+p {
+    text-indent: 1em;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+h1 {font-size: 1.8rem;}
+h2 {font-size: 1.4rem;}
+h3 {font-size: 1.2rem;}
+
+.summary {text-align: right;}
+.main p {line-height: 1.5;}
+abbr {font-variant: small-caps;}
